@@ -7,6 +7,16 @@
 > Provides your Calendar launcher so that you can evaluate the DatePickerDialog with its start and end dates.
 
 
+## how to install 
+
+```Groovy
+dependencies {
+  compile 'com.github.3mpe:3mp3Calendar:1.0.1'
+}
+```
+
+
+
 
 | Function										   | Default value                                                         |
 |------------------------------------------------- |:---------------------------------------------------------------------:|
