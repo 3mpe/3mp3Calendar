@@ -25,7 +25,6 @@ dependencies {
 | setTitle			 							   | Date Selection						                                   |
 | setCalendarStartDate (calendarType, value)	   | To update the start date						                       |
 | setCalendarEndDate (calendarType, value)	       | To update the End date						                           |
-| setCalendarEndDate (calendarType, value)	       | To update the End date						                           |
 | setAutoStart (boolean start)					   | Do the second selection auto-start (Auto-start default value true)	   |				
 | selectedSpecified (boolean specifiedTime)		   | Are you selected from the date specified ?						       |
 | setStartDateIsFixed(boolean selectedDateIsFixed) | Is the selected date fixed						                       |
