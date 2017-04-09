@@ -6,8 +6,8 @@
 ## what is 3mpeCalendar?
 > Provides your Calendar launcher so that you can evaluate the DatePickerDialog with its start and end dates.
 
-##### [Mouse](https://github.com/3mpe/3mp3Calendar)
-<p align="center"><img src="http://i66.tinypic.com/16m6otu.png"></p>
+#####
+<img width="250" height="250" src="http://i66.tinypic.com/16m6otu.png"/>
 
 
 ## how to install 
