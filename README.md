@@ -7,7 +7,6 @@
 > Provides your Calendar launcher so that you can evaluate the DatePickerDialog with its start and end dates.
 
 #####
-<img width="250" height="250" src="http://i66.tinypic.com/16m6otu.png"/>
 <img width="250" height="250" src="http://i68.tinypic.com/2vd2rtf.jpg" />
 
 ## how to install 
