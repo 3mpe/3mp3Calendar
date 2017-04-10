@@ -3,13 +3,13 @@
 # 3mpe Custom Calendar
 
 ----
-## what is 3mpeCalendar?
+## What is 3mpeCalendar?
 > Provides your Calendar launcher so that you can evaluate the DatePickerDialog with its start and end dates.
 
 #####
 <img width="250" height="250" src="http://i68.tinypic.com/2vd2rtf.jpg" />
 
-## how to install 
+## How to install 
 
 ```Groovy
 dependencies {
