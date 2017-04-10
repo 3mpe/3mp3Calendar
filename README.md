@@ -17,6 +17,18 @@ dependencies {
 }
 ```
 
+````Groovy
+## Example 
+        // import project.
+        import com.example.a3mpe.mylibrary.emp3Calendar; 
+
+        View content = getWindow().findViewById(Window.ID_ANDROID_CONTENT); // getview
+        emp3Calendar calendar =  new emp3Calendar(this,content,R.id.txt_rent_start_date);
+        calendar.setAutoStart(false); // default false
+        calendar.setSeparator("-"); // default sperator '.'
+        calendar.setTitle("Selection"); // default ' Date Selection '
+````
+
 
 
 
