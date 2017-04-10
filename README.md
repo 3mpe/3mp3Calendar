@@ -12,6 +12,11 @@
 ## How to install 
 
 ```Groovy
+repositories {
+    mavenCentral()
+    maven { url "https://jitpack.io" }
+}
+
 dependencies {
   compile 'com.github.3mpe:3mp3Calendar:1.0.1'
 }
