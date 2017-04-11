@@ -48,7 +48,7 @@ dependencies {
 | setEndDateIsFixed (boolean selectedDateIsFixed)  | Is the selected date fixed						                       |
 | getDateFormat (boolean selectedDateIsFixed)  	   | 						                                               |
 | setDateFormat (boolean selectedDateIsFixed)  	   | Formats the output		                                               |				
-| setSeparator (String separator)				   | Change Reagents													   |
+| setSeparator (String seperator)				   | Change Reagents													   |
 
 
 
